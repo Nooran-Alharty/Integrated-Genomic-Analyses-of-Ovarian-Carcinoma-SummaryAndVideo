@@ -1,2 +1,44 @@
 # Integrated-Genomic-Analyses-of-Ovarian-Carcinoma-SummaryAndVideo
-This repository contains a summary and an accompanying video of the paper "Integrated Genomic Analyses of Ovarian Carcinoma," created for the biomarker track of the HackBio internship. The project focuses on the molecular abnormalities underlying ovarian cancer, and the identification of  targets that could pave the way for new treatment options. 
+Summary Combined: Research into HGS-OvCa
+
+INTRODUCTION: Ovarian Cancer and Purpose of the Research:
+
+Ovarian cancer is the fifth-leading cause of cancer death among women worldwide; it is estimated that there were 21,880 new cases and 13,850 deaths in 2010 alone in the United States.
+Because of the absence of effective treatment strategies, TCGA researched to uncover the molecular abnormalities pivotal in HGS-OvCa to further pinpoint possible therapeutic targets.
+Key Research Findings:
+
+Molecular and Genomic Characteristics:
+
+TCGA studies determined that only 13% of mutations causing HGS-OvCa are germline mutations, while the remainder is due to somatic aberrations. Key findings:
+TP53 mutations were found in nearly all HGS-OvCa and, therefore, represent the most common mutation.
+There were nine other genes harboring low-prevalence but recurrent somatic mutations: NF1, BRCA1, BRCA2, RB1, and CDK12.
+Copy number changes involved 113 significant alterations in DNA.
+Methylation of the promoter: 168 genes silenced by methylation.
+Expression Subtypes and Epigenetic Profiles:
+
+This analysis identified subtypes based on genetic and epigenetic profiles as follows:
+Four transcriptional subtypes: Tumors are classified into groups based on a different degree of gene expression, including immunoreactive, differentiated, proliferative, and mesenchymal features.
+Three microRNA subtypes: Essentially grouped into classes based on a different expression of microRNA with an effect on gene expression.
+Four promoter methylation subtypes: Tumors are grouped according to different methylation patterns resulting in silencing genes, reflected by a variable impact on the expression profile of each tumor.
+Comparative Analysis with Glioblastoma Multiforme [GBM]:
+
+HGS-OvCa displays more genomic disarray than GBM, mainly due to a higher frequency of mutations and promoter methylation in DNA repair genes, especially those encoding the homologous recombination process.
+The promoter of the BRCA1 gene was hypermethylated and silenced in 11.5% of tumors, a factor of considerable importance for prognosis and treatment responsiveness.
+Therapeutic Implications:
+
+BRCA1/2 status and PARP inhibitors:
+Patients with mutated or methylated BRCA1/2 genes have a higher overall survival rate than patients with wildtype genes.
+Some 50% of HGS-OvCa tumors with homologous recombination defects are sensitive to treatment with PARP inhibitors; tumors with defects are particularly sensitive to this type of inhibitor.
+Targeted Pathways:
+Disrupted pathways involve RB, RAS/PI3K, FOXM1, and NOTCH.
+22 amplified genes, including MECOM and KRAS, would present new treatment options with existing inhibitors.
+Conclusion:
+
+This research underlines the importance of transcriptomic and epigenomic profiling for the discovery of new therapeutic strategies toward the personalized treatment of HGS-OvCa.
+The identification of key genomic mutations and promoter methylation patterns, together with possible targets of drugs, is opening new avenues toward curative therapies, improving the prognosis for a sizable percentage of patients.
+
+
+
+
+
+
