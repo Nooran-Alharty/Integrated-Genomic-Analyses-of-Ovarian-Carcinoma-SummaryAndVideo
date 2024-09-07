@@ -3,7 +3,7 @@
 Nooran Alharty
 Berkay
 
-**LinkedIn video link:**
+**LinkedIn video link:** https://www.linkedin.com/posts/nooran-alharty-2b0722277_ovariancancer-genomics-biomarkers-activity-7238289484570656768-zQPh?utm_source=share&utm_medium=member_desktop
 
 **Summary : Research into HGS-OvCa**
 
