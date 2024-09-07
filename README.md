@@ -1,0 +1,2 @@
+# Integrated-Genomic-Analyses-of-Ovarian-Carcinoma-SummaryAndVideo
+This repository contains a summary and an accompanying video of the paper "Integrated Genomic Analyses of Ovarian Carcinoma," created for the biomarker track of the HackBio internship. The project focuses on the molecular abnormalities underlying ovarian cancer, and the identification of  targets that could pave the way for new treatment options. 
